@@ -1,0 +1,79 @@
+{
+  "Quantum_Mechanics": [
+    "quantum",
+    "entanglement",
+    "superposition",
+    "wavefunction",
+    "schrodinger",
+    "heisenberg",
+    "qubit"
+  ],
+  "Quantum_Optics": [
+    "photon",
+    "cavity",
+    "optomechanics",
+    "optical tweezers",
+    "laser cooling",
+    "quantum optics"
+  ],
+  "Statistical_Mechanics": [
+    "statistical",
+    "thermodynamic",
+    "entropy",
+    "boltzmann",
+    "partition function",
+    "ensemble"
+  ],
+  "Levitated_Optomechanics": [
+    "levitated",
+    "optomechanics",
+    "nanoparticle",
+    "optical levitation",
+    "paul trap",
+    "optical trap"
+  ],
+  "NV_Diamond_Magnetometry": [
+    "NV center",
+    "nitrogen vacancy",
+    "diamond magnetometer",
+    "spin resonance",
+    "ODMR"
+  ],
+  "Neutrino_Physics": [
+    "neutrino",
+    "RENP",
+    "radiative emission",
+    "majorana",
+    "dirac neutrino",
+    "neutrino pair"
+  ],
+  "Precision_Measurements": [
+    "precision measurement",
+    "metrology",
+    "interferometer",
+    "sensitivity",
+    "detection limit"
+  ],
+  "Vacuum_Technology": [
+    "vacuum",
+    "ultra-high vacuum",
+    "UHV",
+    "pressure",
+    "outgassing"
+  ],
+  "Experimental_Techniques": [
+    "experimental",
+    "apparatus",
+    "setup",
+    "technique",
+    "method",
+    "protocol"
+  ],
+  "Theory_And_Simulation": [
+    "simulation",
+    "theoretical",
+    "model",
+    "calculation",
+    "numerical"
+  ]
+}
